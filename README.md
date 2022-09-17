@@ -1,12 +1,8 @@
 # NewsApp
 
+Esta es una aplicacion hecha en flutter haciendo consumo de apis, usando provider como provedor de estados etc..
 
-
-## Getting Started
-
-#Esta es una aplicacion hecha en flutter haciendo consumo de apis, usando provider como provedor de estados etc..
-
-
+## Preview
 
 
 [![Screenshot-1663456456.png](https://i.postimg.cc/prXChwFR/Screenshot-1663456456.png)](https://postimg.cc/34Vmzb1c)
